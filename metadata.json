@@ -1,0 +1,6 @@
+{
+  "name": "VitaNest Wellness - Grow Healthy. Grow Together.",
+  "description": "Direct-selling natural health and home wellness products with ethical business opportunities and transparent community growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
